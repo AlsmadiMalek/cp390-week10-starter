@@ -8,3 +8,7 @@ git log --oneline            Show the commit history, one line each
 git remote -v                Show the remote repositories this folder is linked to
 git remote add origin <url>  Link this repository to a GitHub repository
 git push -u origin main      Upload main and set upstream tracking
+git clone <url>              Copy a GitHub repository to your computer
+git pull origin main         Download and merge new commits from GitHub
+git switch main              Move to the main branch
+git log --oneline --graph --all --decorate   Show history as a graph
