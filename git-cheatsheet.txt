@@ -1,0 +1,10 @@
+CP390 Week 10 - Git command cheat sheet
+
+git init                     Start a new repository in the current folder
+git status                   Show changed and staged files
+git add <file>               Stage a file for the next commit
+git commit -m "message"      Save staged changes as a commit
+git log --oneline            Show the commit history, one line each
+git remote -v                Show the remote repositories this folder is linked to
+git remote add origin <url>  Link this repository to a GitHub repository
+git push -u origin main      Upload main and set upstream tracking
