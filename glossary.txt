@@ -1,0 +1,26 @@
+CP390 Week 10 - GitHub glossary
+Complete at least TWO definitions in your own words (lab Part 2).
+Then add your name and GitHub username on the last line.
+
+Import:
+  Your definition:
+
+Clone:
+  Your definition:
+
+Fork:
+  Your definition:
+
+Branch:
+  Your definition:
+
+Pull request:
+  Your definition:
+
+Merge:
+  Your definition:
+
+Upstream tracking (git push -u):
+  Your definition:
+
+Completed by:
